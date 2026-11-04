@@ -1,6 +1,6 @@
 # PlatformPHP — A Small Computer for Your Devices
 
-[ A bit more technical description is here](vvb333007.github.io/PlatformPHP/technical.md)
+[ A bit more technical description is here](https://vvb333007.github.io/PlatformPHP/technical.md)
 
 Imagine a small computer. Instead of a monitor, keyboard, and mouse, it has dozens of connections where you can attach all kinds of devices: lights, relays, sensors, motors, buttons, displays, modems, GPS receivers, and almost any other electronic equipment.
 
